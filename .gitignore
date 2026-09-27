@@ -1,5 +1,6 @@
 ﻿source.html
 tools/
 update-password.bat
+update-password.ps1
 *.bak
 
